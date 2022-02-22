@@ -1,5 +1,5 @@
 # Python-Graph
-A graph plotting tool using Python. Create graph from manually input data or from Excel file 
+A graph plotting tool using Python with GUI. Create graph from manually input data or from Excel file 
 # Requirments
 
 Install all requirments after activating your vertual environment by running the comand
