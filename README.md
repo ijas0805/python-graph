@@ -22,4 +22,4 @@ A window will pop up. Start using the app.
 <p align="left"><img src="img/02.png" width="800" height="500"></p>
 <p align="left"><img src="img/03.png" width="600" height="500"></p>
 
-Note: feel free to send your feed back @ iahammedap@gmail.com
+-Feel free to send your feed back @ iahammedap@gmail.com
